@@ -1,1 +1,1 @@
-Работы выполнены по материалам Django Girls Tutorial.
+*The works are based on the materials Django Girls Tutorial.
